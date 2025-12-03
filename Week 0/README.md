@@ -1,4 +1,4 @@
-# **Welcome to Week 0 of Data DaVinci**
+# **Welcome to Week 0 of AutoDamage-Vision**
 
 In this week we will cover the basics of python and a few libraries namely NumPy, Matplotlib, Pandas and Seaborn that are required to learn core concepts in ML.
 
